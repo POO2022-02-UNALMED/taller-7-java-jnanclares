@@ -25,7 +25,7 @@ public class Alfabeto extends Pictograma{
     }
 
     @Override
-    String interpretacion() {
+    public String interpretacion() {
         return interpretacion;
     }
 

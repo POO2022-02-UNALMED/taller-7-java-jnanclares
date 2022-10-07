@@ -34,7 +34,7 @@ public class Alfabeto extends Pictograma{
         return "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z";
     }
 
-    int cantidadLetras() {
+    public int cantidadLetras() {
         return letras.length;
     }
 

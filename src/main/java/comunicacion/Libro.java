@@ -65,6 +65,6 @@ public class Libro extends Escrito {
                 getPaginas() + "\n" +
                 co_autor + "\n" +
                 editorial + "\n" +
-                edicion + "\n";
+                edicion;
     }
 }
